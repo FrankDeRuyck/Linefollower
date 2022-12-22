@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ATmega328 (Arduino Nano) 
 
-motors: 
+motors: Gear motor 9V - 10:1 
 
-h-bridge:
+h-bridge: Adafruit TB6612 
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: Lipo 3S 11,1V 
 
-wireless communication:
+wireless communication: HC-05
 
-distance sensor - motors:
+distance sensor - motors: 120mm
 
-weight:
+weight: 271g
 
-speed: 
+speed: 0,970 m/s
 
