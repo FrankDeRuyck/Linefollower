@@ -1,7 +1,5 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
-
 ![image](https://user-images.githubusercontent.com/121255547/209215260-8c95a24f-8f9e-4084-ad2e-c2f1840f009c.png)
   
 ## specifications
