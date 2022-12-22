@@ -17,4 +17,4 @@
 |         12|Weerstand    |Weerstand 1kΩ            |Recup           |€ 0              |1     |€ 0        |
 |         13|Weerstand    |Weerstand 10kΩ            |Recup           |€ 0              |1     |€ 0        |
 |         14|Frame    |PLA            |Nieuw           |€ 0,34              |1     |€ 0,34        |
-|         |    |            |           |              |Totaal prijs:     |€         |
+|         |    |            |           |              |Totaal prijs:     |€ 57,77       |
